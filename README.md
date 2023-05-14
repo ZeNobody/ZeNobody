@@ -2,9 +2,6 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
 - 🌱 Especializando em Java
 
-
-[![ZeNobody's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeNobody&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
    <a href="https://github.com/ZeNobody">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeNobody&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
