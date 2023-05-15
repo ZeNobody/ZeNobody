@@ -3,7 +3,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
 - 🌱 Especializando em Java
 ##
-<div>
+<div style="display: flex">
    <a href="https://github.com/ZeNobody">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZeNobody&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeNobody&layout=compact&langs_count=6&theme=tokyonight"/>
