@@ -1,6 +1,5 @@
 ### Bom dia! 😎
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
-- 🌱 Especializando em Java
+
 
 <div>
    <a href="https://github.com/ZeNobody">
@@ -19,6 +18,9 @@
 </div>
    
 <br><br>
+   
+   - 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
+   - 🌱 Especializando em Java
 
   ### Minhas Redes Sociais!
  
