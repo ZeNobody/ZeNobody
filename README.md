@@ -1,7 +1,6 @@
 ### Opa, bão?! 😎
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - 3/5
-- 🌱 Especializando em Java
 ##
 <div style="display: flex">
    <a href="https://github.com/ZeNobody">
